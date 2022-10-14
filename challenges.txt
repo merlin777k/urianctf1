@@ -1,0 +1,21 @@
+UrianCTF(beta test version 1.0)
+
+Reverse Engineering
+* Binhex1 (100)
+* Binhex2 (150)
+
+Open Source Intelligence (OSINT)
+* Satur1 (20)
+* Satur2 (60)
+
+Web Exploitation
+* Inspect1 (10)
+* Inspect2 (50)
+
+Cryptography
+* Caesar Part1(30)
+* Caesar Part2(50)
+
+Forensics
+* Sponsor Banner1(40)
+* URIAN CTF Banner1(50)
